@@ -6,6 +6,6 @@ class Rose
 {
 	public function desc()
 	{
-		echo "this is lily flower";
+		echo "this is rose flower";
 	}
 }
